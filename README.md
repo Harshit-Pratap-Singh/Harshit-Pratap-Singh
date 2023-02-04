@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Harshit-Pratap-Singh
-- 👀 I’m interested in block chain and web development.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in blockchain and web development.
 - 📫 How to reach me singhharshitpratap@gmail.com
 
 <!---
